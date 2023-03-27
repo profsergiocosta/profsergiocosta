@@ -1,1 +1,2 @@
-
+*.hack linguist-vendored
+*.asm linguist-vendored
