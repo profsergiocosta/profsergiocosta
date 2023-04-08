@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 
 [![profsergiocosta's github stats](https://github-readme-stats.vercel.app/api?username=profsergiocosta&include_all_commits=true&count_private=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
-[![profsergiocosta's top langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=profsergiocosta&hide=Assembly,Hack,Scilab,JupyterNotebook&layout=compact&langs_count=25&theme=algolia&&count-private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![profsergiocosta's top langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=profsergiocosta&hide=Assembly,Hack,Scilab,Jupyter%20Notebook&layout=compact&langs_count=25&theme=algolia&&count-private=true)](https://github.com/anuraghazra/github-readme-stats)
 
