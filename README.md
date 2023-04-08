@@ -25,3 +25,4 @@ Here are some ideas to get you started:
 
 [![profsergiocosta's top langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lambdageo&hide=Assembly,Hack,Scilab,Jupyter%20Notebook&layout=compact&exclude_repo=cpy-ptbr&langs_count=25&theme=algolia&&count-private=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![LambdaGeo GitHub stats](https://github-readme-stats.vercel.app/api?username=LambdaGeo&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
