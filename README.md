@@ -1,19 +1,14 @@
 
-
-<!--
-**profsergiocosta/profsergiocosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hello! Welcome to my GitHub profile!
+ 
+ Adjunct Professor at UFMA (Federal University of Maranhão - Universidade Federal do Maranhão [UFMA])
+- 💼 Associate Professor at UFMA (Federal University of Maranhão - Universidade Federal do Maranhão [UFMA])
+- 🥇 Education:
+  - Data Processing Technologist [UNIPAC]
+  - M.Sc. in  Applied Computing (major: Geographic Infomation System) [INPE](https://www.gov.br/inpe/pt-br)
+  - Ph.D. in  Applied Computing (major: Geographic Infomation System) [INPE](https://www.gov.br/inpe/pt-br)
+  
+More information in [https://profsergiocosta.notion.site/](https://profsergiocosta.notion.site/)
 
 
 ----
