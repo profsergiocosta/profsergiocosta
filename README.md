@@ -1,7 +1,6 @@
 
 ## Hello! Welcome to my GitHub profile!
  
- Adjunct Professor at UFMA (Federal University of Maranhão - Universidade Federal do Maranhão [UFMA])
 - 💼 Associate Professor at UFMA (Federal University of Maranhão - Universidade Federal do Maranhão [UFMA])
 - 🥇 Education:
   - Data Processing Technologist [UNIPAC]
