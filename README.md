@@ -21,7 +21,13 @@ More information in [https://profsergiocosta.notion.site/](https://profsergiocos
  <p align="left"> 
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=profsergiocosta&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=profsergiocosta&theme=dark&hide_border=false" /><br/>
-  <img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=profsergiocosta&layout=compact&hide=Assembly,HTML,Hack,Scilab,Makefile,ANTLR,Jupyter%20Notebook&langs_count=10&theme=dark" />
+
+  
+<!--
+so pega os publicos desse repositorio, nao esta representando bem as linguagens que mais uso
+<img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=profsergiocosta&layout=compact&hide=Assembly,HTML,Hack,Scilab,Makefile,ANTLR,Jupyter%20Notebook&langs_count=10&theme=dark" />
+-->
+
 <a href="https://github.com/profsergiocosta"> 
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=profsergiocosta&theme=transparent&bg_color=blue" /> 
 </a>
