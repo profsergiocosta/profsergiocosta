@@ -8,6 +8,7 @@
   - Ph.D. in  Applied Computing (major: Geographic Infomation System) [INPE](https://www.gov.br/inpe/pt-br)
 
 Research Group: [LambdaGeo](https://github.com/LambdaGeo)
+
   
 More information in [https://profsergiocosta.notion.site/](https://profsergiocosta.notion.site/)
 
