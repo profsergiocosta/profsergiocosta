@@ -18,7 +18,7 @@ I'm a passionate educator and software developer, currently teaching in the **Co
 
 Additionally, I contribute to the **Graduate Program in Science and Environmental Technology**, lecturing on:
 
-- **Geoprocessing**
+- **Geotechnologies**
 - **Remote Sensing**
 - **Data Processing**
 
