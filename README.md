@@ -50,7 +50,7 @@ When working with students, I love experimenting with all kinds of tech! We dive
 
 On the web side, we play with REST APIs, Triple Stores (Fuseki), JSON, and RDF. For deployment, it's all about Docker, Vagrant, AWS, and Heroku.  
 
-And of course, in the geotech world, we rely on QGIS (PyQGIS), TerraLib (TerraView and TerraME), and PostGIS.
+And of course, in the geotech world, we rely on Google Earth Engine, QGIS (PyQGIS), TerraLib (TerraView and TerraME), and PostGIS.
 
 <p align="center">
   <img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=profsergiocosta&layout=compact&hide=Assembly,HTML,Hack,Scilab,Makefile,ANTLR,Jupyter%20Notebook&langs_count=14&theme=dark" />
