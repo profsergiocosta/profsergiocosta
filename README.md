@@ -48,7 +48,7 @@ Curious about my projects? Check out my [Notion profile](https://profsergiocosta
 
 When working with students, I love experimenting with all kinds of tech! We dive into languages like [Haskell](https://lambda-ma.github.io/rwh-ptbr/), JavaScript (Node.js), Python, Scala, and Java. Frameworks? Oh yeah — Flask, Django, Adonis, Spring Boot, plus some ReactJS and React Native for the frontend fun.  
 
-On the web side, we play with REST APIs, Triple Stores (Fuseki), JSON, and RDF. For deployment, it's all about Docker, Vagrant, AWS, and Heroku.  
+On the web side, we play with REST APIs, Triple Stores (Fuseki), JSON, and RDF. For deployment, it's all about Docker, Docker, AWS, and Heroku.  
 
 And of course, in the geotech world, we rely on Google Earth Engine, QGIS (PyQGIS), TerraLib (TerraView and TerraME), and PostGIS.
 
