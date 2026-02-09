@@ -1,65 +1,59 @@
-## Hello! Welcome to my GitHub profile!
+# Hello! Welcome to my GitHub profile! 👋
 
-- 💼 **Associate Professor** at [UFMA](https://www.ufma.br/) — yep, I teach and code for a living!  
-- 🎓 **Education:**  
-  - Data Processing Technologist — UNIPAC  
-  - M.Sc. in Applied Computing (Geographic Information Systems) — [INPE](https://www.gov.br/inpe/pt-br)  
-  - Ph.D. in Applied Computing (Geographic Information Systems) — [INPE](https://www.gov.br/inpe/pt-br)  
+- 💼 **Associate Professor** at [UFMA](https://www.ufma.br/) — Teaching and coding the next generation of engineers.
+- 🎓 **Ph.D. in Applied Computing** from [INPE](https://www.gov.br/inpe/pt-br) — Specialist in Geotechnologies and Software Engineering.
+- 🏛️ **Research Leader** at [LambdaGeo](https://github.com/LambdaGeo) — Exploring the intersection of Geotech and Functional Programming.
 
 ---
 
-## GitHub Overview
+## 🚀 Current Focus: Language Engineering
+I'm currently consolidating my work in compiler design and formal languages. My main project right now is:
+- **[polyglot-compilers](https://github.com/profsergiocosta/polyglot-compilers):** A massive laboratory implementing **Nand2Tetris**, **Lox**, **Eva**, and **C--** using multiple paradigms (C++, Go, Python, Clojure, Elixir).
+
+---
+
+## 🏛️ Academic & Teaching
+At the **Computer Engineering** program (UFMA), I lead courses on:
+- **Compilers & Programming Languages** (Theory & Implementation)
+- **Functional Programming** (Haskell, Clojure, Elixir)
+- **Data Structures** and **Web Development**
+
+I also lecture at the **Graduate Program in Science and Environmental Technology**, focusing on:
+- **Geotechnologies** & **Remote Sensing**
+- **Environmental Data Processing**
+
+---
+
+## 🛠 Languages and Tools
+
+### 💻 Software & Systems
+- **Core:** C++, Go, Python, Haskell, Clojure, Elixir.
+- **Web:** Node.js (Adonis), Python (Django/Flask), Java (Spring Boot).
+- **Frontend:** ReactJS & React Native.
+- **DevOps:** Docker, AWS, CI/CD pipelines.
+
+### 🌍 Geotechnologies
+- **Platforms:** Google Earth Engine, QGIS (PyQGIS).
+- **Data:** PostGIS, TerraLib/TerraME, RDF & Triple Stores (Fuseki).
+
+---
+
+## 📊 GitHub Overview
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=profsergiocosta&show_icons=true&theme=dark&include_all_commits=true" />
- 
-  
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=profsergiocosta&theme=dark&hide_border=false" />
-  
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=profsergiocosta&show_icons=true&theme=dark&include_all_commits=true" />
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=profsergiocosta&theme=dark&hide_border=false" />
 </p>
 
 ---
 
-## About Me
-
-I'm passionate about teaching and creating cool software! Right now, I'm part of the **Computer Engineering** program at UFMA, where I teach stuff like:
-
-- **Programming** and **Programming Languages**  
-- **Compilers**  
-- **Data Structures**  
-- **Web Development**  
-- **Functional Programming**  
-
-I also help out at the **Graduate Program in Science and Environmental Technology**, giving lectures on:
-
-- **Geotechnologies**  
-- **Remote Sensing**  
-- **Data Processing**  
-
-I'm always excited about building innovative solutions, especially when programming meets geotechnologies and environmental challenges.
-
-- **Research Group:** [LambdaGeo](https://github.com/LambdaGeo)  
-
-Curious about my projects? Check out my [Notion profile](https://profsergiocosta.notion.site/).
+## 📬 Connect with me
+- 📝 Curious about my projects? Check out my [Notion profile](https://profsergiocosta.notion.site/).
+- 🔗 Check my [Timeline](https://github.com/profsergiocosta) for recent activity.
 
 ---
-
-## Languages and Tools
-
-When working with students, I love experimenting with all kinds of tech! We dive into languages like [Haskell](https://lambda-ma.github.io/rwh-ptbr/), JavaScript (Node.js), Python, Scala, and Java. Frameworks? Oh yeah — Flask, Django, Adonis, Spring Boot, plus some ReactJS and React Native for the frontend fun.  
-
-On the web side, we play with REST APIs, Triple Stores (Fuseki), JSON, and RDF. For deployment, it's all about Docker, Docker, AWS, and Heroku.  
-
-And of course, in the geotech world, we rely on Google Earth Engine, QGIS (PyQGIS), TerraLib (TerraView and TerraME), and PostGIS.
-
-
-
----
-
-## Timeline 
-
 <p align="center">
   <a href="https://github.com/profsergiocosta">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=profsergiocosta&theme=transparent&bg_color=blue" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=profsergiocosta&theme=transparent" />
   </a>
 </p>
