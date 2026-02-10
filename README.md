@@ -12,6 +12,17 @@ I'm currently consolidating my work in compiler design and formal languages. My 
 
 ---
 
+## 🌍 LambdaGeo Projects
+As the lead developer at [LambdaGeo](https://github.com/LambdaGeo), I've been building tools and libraries at the intersection of geographic information systems and semantic web technologies:
+
+- **[dissmodel](https://github.com/LambdaGeo/dissmodel):** Python library for discrete spatial modeling with support for cellular automata, zonal statistics, and dynamic spatial models. [📚 Docs](https://lambdageo.github.io/dissmodel/)
+- **[qgisparql-triple2layer](https://github.com/LambdaGeo/qgisparql-triple2layer):** QGIS plugin to import linked data from SPARQL endpoints and convert RDF triples into geographic layers.
+- **[qgisparql-layer2triple](https://github.com/LambdaGeo/qgisparql-layer2triple):** QGIS plugin to export vector layers as RDF triples in Turtle format, enabling semantic web integration.
+- **[dbcells-ontology](https://github.com/LambdaGeo/dbcells-ontology):** Ontology for representing spatial data as linked data using the DBCells framework.
+- **[brmangue](https://github.com/LambdaGeo/brmangue):** Geospatial database and analysis tools for Brazilian mangrove ecosystems.
+
+---
+
 ## 🏛️ Academic & Teaching
 At the **Computer Engineering** program (UFMA), I lead courses on:
 - **Compilers & Programming Languages** (Theory & Implementation)
