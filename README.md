@@ -15,9 +15,14 @@ My primary focus is currently on **IntegrAI**, a platform designed for healthcar
 * **Innovation:** Heavy focus on **LLM integration** and AI-driven support systems.
 
 ### 🌍 LambdaGeo Priority
-As the lead at [LambdaGeo](https://github.com/LambdaGeo), my current core projects are:
+As the lead at [LambdaGeo](https://github.com/LambdaGeo), my current core projects are focused on geospatial modeling and semantic data integration:
+
 * **[brmangue](https://github.com/LambdaGeo/brmangue):** Geospatial database and analysis tools for Brazilian mangrove ecosystems.
 * **[dissmodel](https://github.com/LambdaGeo/dissmodel):** Python library for discrete spatial modeling (Cellular Automata and Zonal Statistics). [📚 Docs](https://lambdageo.github.io/dissmodel/)
+
+#### 🔌 QGIS Plugins (Semantic Web Integration)
+* **[qgisparql-layer2triple](https://github.com/LambdaGeo/qgisparql-layer2triple):** Export vector layers as RDF triples in Turtle format.
+* **[qgisparql-triple2layer](https://github.com/LambdaGeo/qgisparql-triple2layer):** Import linked data from SPARQL endpoints directly into QGIS layers.
 
 ---
 
