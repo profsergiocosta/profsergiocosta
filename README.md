@@ -1,8 +1,8 @@
 # Hello! Welcome to my GitHub profile! 👋
 
-- 💼 **Associate Professor** at [UFMA](https://www.ufma.br/) — Teaching and coding the next generation of engineers.
-- 🎓 **Ph.D. in Applied Computing** from [INPE](https://www.gov.br/inpe/pt-br) — Specialist in Geotechnologies and Software Engineering.
-- 🏛️ **Research Leader** at [LambdaGeo](https://github.com/LambdaGeo) — Exploring the intersection of Geotech and Functional Programming.
+- 🚀 **Full-Stack Developer & Geospatial Engineer** — Building scalable systems at the intersection of AI, GeoTech, and Web Development
+- 🏛️ **Research Leader** at [LambdaGeo](https://github.com/LambdaGeo) — Open-source geospatial tools and semantic data integration
+- 💼 **Associate Professor** at [UFMA](https://www.ufma.br/) — Ph.D. in Applied Computing from [INPE](https://www.gov.br/inpe/pt-br)
 
 ---
 
@@ -14,11 +14,15 @@ My primary focus is currently on **IntegrAI**, a platform designed for healthcar
 * **Architecture:** Built with **Django** and **Docker**.
 * **Innovation:** Heavy focus on **LLM integration** and AI-driven support systems.
 
-### 🌍 LambdaGeo Priority
-As the lead at [LambdaGeo](https://github.com/LambdaGeo), my current core projects are focused on geospatial modeling and semantic data integration:
+### 🌍 LambdaGeo Projects — Open-Source Geospatial Innovation
 
-* **[brmangue](https://github.com/LambdaGeo/brmangue):** Geospatial database and analysis tools for Brazilian mangrove ecosystems.
-* **[dissmodel](https://github.com/LambdaGeo/dissmodel):** Python library for discrete spatial modeling (Cellular Automata and Zonal Statistics). [📚 Docs](https://lambdageo.github.io/dissmodel/)
+* **[brmangue](https://github.com/LambdaGeo/brmangue):** Python toolkit for Brazilian mangrove ecosystem analysis
+  - Used by environmental researchers for coastal monitoring
+  - Integration with Brazil's official environmental datasets
+  
+* **[dissmodel](https://github.com/LambdaGeo/dissmodel):** Discrete spatial modeling library (Cellular Automata, Zonal Stats)
+  - [📚 Documentation](https://lambdageo.github.io/dissmodel/) | [PyPI Package](#)
+  - Applied in land-use change modeling and urban planning research
 
 #### 🔌 QGIS Plugins (Semantic Web Integration)
 * **[qgisparql-layer2triple](https://github.com/LambdaGeo/qgisparql-layer2triple):** Export vector layers as RDF triples in Turtle format.
