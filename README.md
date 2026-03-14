@@ -6,50 +6,57 @@
 
 ---
 
-## 🚀 Current Focus: IntegrAI & Geospatial Intelligence
-Lately, I have been channeling my development efforts into high-impact projects, moving from general experimentation to specialized systems.
+## 🚀 Current Focus
 
-### 🧠 Featured Project: [IntegrAI](https://github.com/profsergiocosta)
-My primary focus is currently on **IntegrAI**, a platform designed for healthcare professionals using a modern microservices architecture.
-* **Architecture:** Built with **Django** and **Docker**.
-* **Innovation:** Heavy focus on **LLM integration** and AI-driven support systems.
+### 🌍 [DisSModel](https://github.com/LambdaGeo/dissmodel) — Discrete Spatial Modeling Framework
 
-### 🌍 LambdaGeo Projects — Open-Source Geospatial Innovation
+My main research and development focus is **DisSModel**, a modular Python framework for spatially explicit dynamic modeling — designed as a modern, Pythonic alternative to [TerraME](http://www.terrame.org/).
 
-* **[brmangue](https://github.com/LambdaGeo/brmangue):** Python toolkit for Brazilian mangrove ecosystem analysis
-  - Used by environmental researchers for coastal monitoring
-  - Integration with Brazil's official environmental datasets
-  
-* **[dissmodel](https://github.com/LambdaGeo/dissmodel):** Discrete spatial modeling library (Cellular Automata, Zonal Stats)
-  - [📚 Documentation](https://lambdageo.github.io/dissmodel/) | [PyPI Package](#)
-  - Applied in land-use change modeling and urban planning research
+- **Dual-substrate architecture** — vector (GeoDataFrame) for GIS integration, raster (NumPy) for high-performance simulation (~4,500× faster at 10k cells)
+- **Discrete-event engine** powered by [Salabim](https://www.salabim.org/)
+- **Supports** Cellular Automata, System Dynamics, and hybrid models
+- **Applied** in coastal dynamics, land-use change, epidemic spread, and urban growth modeling
 
-#### 🔌 QGIS Plugins (Semantic Web Integration)
-* **[qgisparql-layer2triple](https://github.com/LambdaGeo/qgisparql-layer2triple):** Export vector layers as RDF triples in Turtle format.
-* **[qgisparql-triple2layer](https://github.com/LambdaGeo/qgisparql-triple2layer):** Import linked data from SPARQL endpoints directly into QGIS layers.
+| | |
+|---|---|
+| 📚 Documentation | [lambdageo.github.io/dissmodel](https://lambdageo.github.io/dissmodel/) |
+| 📦 PyPI | [pypi.org/project/dissmodel](https://pypi.org/project/dissmodel/) |
+| 📖 Book *(work in progress)* | [lambdageo.github.io/geospatial-modeling-python](https://lambdageo.github.io/geospatial-modeling-python/) |
+
+#### Related projects
+- **[coastal-dynamics](https://github.com/LambdaGeo/coastal-dynamics)** — Flood propagation and mangrove migration models built on DisSModel, applied to the Maranhão coast (Brazil)
 
 ---
 
-## 🎓 Teaching & Academic Projects
-Parallel to my production focus, I maintain a strong commitment to teaching computer science fundamentals.
+### 🧠 [IntegrAI](https://github.com/profsergiocosta)
+
+A platform for healthcare professionals using a microservices architecture with **Django**, **Docker**, **LLM integration**, and AI-driven decision support.
+
+---
+
+## 🌍 LambdaGeo — Open-Source Geospatial Projects
+
+- **[dissmodel](https://github.com/LambdaGeo/dissmodel)** — Discrete spatial modeling framework (Cellular Automata + System Dynamics)
+- **[coastal-dynamics](https://github.com/LambdaGeo/coastal-dynamics)** — Coastal flood and mangrove simulation (DisSModel case study)
+- **[qgisparql-layer2triple](https://github.com/LambdaGeo/qgisparql-layer2triple)** — Export QGIS vector layers as RDF triples (Turtle format)
+- **[qgisparql-triple2layer](https://github.com/LambdaGeo/qgisparql-triple2layer)** — Import linked data from SPARQL endpoints into QGIS
+- **[rdfmapper](https://github.com/LambdaGeo/rdfmapper)** — Declarative Object-RDF Mapper for Python
+- **[DBCells](https://github.com/LambdaGeo/dbcells)** — Architecture for publishing spatial modeling data as Linked Data
+
+---
+
+## 🎓 Teaching
 
 ### 🛠️ [Polyglot-Compilers](https://github.com/profsergiocosta/polyglot-compilers)
-My main **teaching project** for compiler design and formal languages.
-* Implementing **Nand2Tetris**, **Lox**, **Eva**, and **C--**.
-* Developed across multiple paradigms using **C++, Go, Python, Clojure,** and **Elixir**.
+Compiler design and formal languages — implementing **Nand2Tetris**, **Lox**, **Eva**, and **C--** across **C++, Go, Python, Clojure,** and **Elixir**.
 
 ---
 
 ## 🛠 Languages and Tools
 
-### 💻 Software Engineering
-* **Core:** C++, Go, Python, Haskell, Clojure, Elixir.
-* **Backend:** Node.js (Adonis), Python (Django), Java (Spring Boot).
-* **Ops:** Docker, AWS, CI/CD pipelines.
+**Software Engineering** — C++, Go, Python, Haskell, Clojure, Elixir · Django, Node.js, Spring Boot · Docker, AWS, CI/CD
 
-### 🌍 Geotechnologies
-* **Platforms:** Google Earth Engine, QGIS (PyQGIS).
-* **Data:** PostGIS, RDF & Triple Stores (Fuseki), SPARQL.
+**Geospatial** — GeoPandas, NumPy, rasterio, libpysal · Google Earth Engine · QGIS (PyQGIS) · PostGIS · RDF / SPARQL (Fuseki)
 
 ---
 
@@ -62,11 +69,13 @@ My main **teaching project** for compiler design and formal languages.
 
 ---
 
-## 📬 Connect with me
-* 📝 **Notion:** Check my [Notion profile](https://profsergiocosta.notion.site/) for project notes.
-* 🔗 **Timeline:** Stay updated via my [GitHub Activity](https://github.com/profsergiocosta).
+## 📬 Connect
+
+- 📝 [Notion profile](https://profsergiocosta.notion.site/)
+- 🔗 [GitHub Activity](https://github.com/profsergiocosta)
 
 ---
+
 <p align="center">
   <a href="https://github.com/profsergiocosta">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=profsergiocosta&theme=transparent" />
