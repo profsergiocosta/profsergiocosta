@@ -1,109 +1,66 @@
-eu# Hello! Welcome to my GitHub profile! 👋
+# Hello! Welcome to my GitHub profile! 👋
 
-- 🚀 **Full-Stack Developer & Geospatial Engineer** — Building scalable systems at the intersection of AI, GeoTech, and Web Development
-- 🏛️ **Research Leader** at [LambdaGeo](https://github.com/LambdaGeo) — Open-source geospatial tools and semantic data integration
-- 💼 **Associate Professor** at [UFMA](https://www.ufma.br/) — Ph.D. in Applied Computing from [INPE](https://www.gov.br/inpe/pt-br)
-
----
-
-## 🚀 Current Focus
-
-### 🌍 DisSModel — Discrete Spatial Modeling Ecosystem
-
-My main research and development focus is **DisSModel**, a modular Python framework for spatially explicit dynamic modeling — designed as a modern, Pythonic alternative to [TerraME](http://www.terrame.org/).
-
-#### [dissmodel](https://github.com/LambdaGeo/dissmodel) — Core library
-
-- **Dual-substrate architecture** — vector (`GeoDataFrame`) for GIS integration, raster (`NumPy`) for high-performance simulation (~4,500× faster at 10k cells)
-- **Discrete-event engine** powered by [Salabim](https://www.salabim.org/)
-- **Supports** Cellular Automata, System Dynamics, and hybrid spatial models
-- **Visualization** — `Map` and `RasterMap` components with headless, Jupyter, Colab, and Streamlit support
-
-| | |
-|---|---|
-| 📚 Documentation | [lambdageo.github.io/dissmodel](https://lambdageo.github.io/dissmodel/) |
-| 📦 PyPI | [pypi.org/project/dissmodel](https://pypi.org/project/dissmodel/) |
-| 📖 Book *(work in progress)* | [lambdageo.github.io/geospatial-modeling-python](https://lambdageo.github.io/geospatial-modeling-python/) |
-
-#### [dissmodel-platform](https://github.com/LambdaGeo/dissmodel-platform) — Execution platform
-
-Scalable environment for running DisSModel simulations — from local development to on-premise and cloud clusters.
-
-- **JupyterLab** for interactive development
-- **FastAPI** gateway for job submission
-- **Distributed workers** with Redis queue (scalable via `docker compose up --scale worker=N`)
-- **MinIO** S3-compatible storage for datasets and results
-- Runs locally, on-premise (INPE, universities), or on public cloud (AWS, GCP, Azure)
-
-#### Domain plugins
-
-Built on top of `dissmodel`, each plugin adds domain-specific components:
-
-| Plugin | Description | Status |
-|--------|-------------|--------|
-| **[dissluc](https://github.com/LambdaGeo/dissluc)** | Land-Use Change — CLUE-like allocation and potential regression | active |
-| **[coastal-dynamics](https://github.com/LambdaGeo/coastal-dynamics)** | Flood propagation and mangrove migration — Maranhão coast | active |
-
-#### Validation highlights
-
-- `coastal-dynamics` raster vs vector: **100% match** on land use and soil, **19× speedup** at 50k cells
-- `dissluc` Lab1 (csAC): validated against TerraME/LuccME reference output
+- 🚀 **Full-Stack Developer & Geospatial Engineer** — Building scalable systems at the intersection of AI, GeoTech, and Web Development.
+- 🏛️ **Research Leader** at [LambdaGeo](https://github.com/LambdaGeo) — Open-source geospatial tools and semantic data integration.
+- 💼 **Associate Professor** at [UFMA](https://www.ufma.br/) — Ph.D. in Applied Computing from [INPE](https://www.gov.br/inpe/pt-br).
 
 ---
 
----
+## 🌍 DisSModel — The Discrete Spatial Modeling Ecosystem
 
-### 🧠 [IntegrAI](https://github.com/profsergiocosta)
+My current focus is the **DisSModel Ecosystem**, a Python-native alternative to [TerraME](http://www.terrame.org/). It decouples scientific modeling from infrastructure, providing a modern stack for reproducible research.
 
-A platform for healthcare professionals using a microservices architecture with **Django**, **Docker**, **LLM integration**, and AI-driven decision support.
+### 🛠️ Core & Infrastructure
 
----
+* **[dissmodel](https://github.com/LambdaGeo/dissmodel)**: The engine. A modular Python framework for Cellular Automata and System Dynamics. Features a dual-substrate (Vector/Raster) architecture and a discrete-event engine.
+    * 📦 [PyPI](https://pypi.org/project/dissmodel/) | 📚 [Docs](https://lambdageo.github.io/dissmodel/) | 📖 [Book (WIP)](https://lambdageo.github.io/geospatial-modeling-python/)
+* **[dissmodel-platform](https://github.com/LambdaGeo/dissmodel-platform)**: The execution layer. A scalable environment using **FastAPI**, **Redis**, and **Docker** to run simulations as services with full telemetry and S3 (MinIO) storage.
 
-## 🌍 LambdaGeo — Open-Source Geospatial Projects
+### 🧩 Specialized Ecosystem
 
-- **[dissmodel](https://github.com/LambdaGeo/dissmodel)** — Discrete spatial modeling framework (Cellular Automata + System Dynamics)
-- **[coastal-dynamics](https://github.com/LambdaGeo/coastal-dynamics)** — Coastal flood and mangrove simulation (DisSModel case study)
-- **[qgisparql-layer2triple](https://github.com/LambdaGeo/qgisparql-layer2triple)** — Export QGIS vector layers as RDF triples (Turtle format)
-- **[qgisparql-triple2layer](https://github.com/LambdaGeo/qgisparql-triple2layer)** — Import linked data from SPARQL endpoints into QGIS
-- **[rdfmapper](https://github.com/LambdaGeo/rdfmapper)** — Declarative Object-RDF Mapper for Python
-- **[DBCells](https://github.com/LambdaGeo/dbcells)** — Architecture for publishing spatial modeling data as Linked Data
+Built on top of the core engine, these repositories provide ready-to-use models and domain-specific logic:
 
----
+| Repository | Description | Status |
+| :--- | :--- | :--- |
+| **[dissmodel-ca](https://github.com/LambdaGeo/dissmodel-ca)** | Library of classic Cellular Automata models (Game of Life, Fire, etc.). | ✅ Active |
+| **[dissmodel-sysdyn](https://github.com/LambdaGeo/dissmodel-sysdyn)** | Compartmental models for System Dynamics (SIR, Predator-Prey). | ✅ Active |
+| **[coastal-dynamics](https://github.com/LambdaGeo/coastal-dynamics)** | Flood and mangrove migration models for the Maranhão coast. | ✅ Active |
 
-## 🎓 Teaching
-
-### 🛠️ [Polyglot-Compilers](https://github.com/profsergiocosta/polyglot-compilers)
-Compiler design and formal languages — implementing **Nand2Tetris**, **Lox**, **Eva**, and **C--** across **C++, Go, Python, Clojure,** and **Elixir**.
+> **Validation Highlight:** `coastal-dynamics` achieves a **100% match** between raster and vector substrates, with a **19× speedup** at scale (50k cells).
 
 ---
 
-## 🛠 Languages and Tools
+## 🏛️ LambdaGeo — Research & Semantic Web
 
-**Software Engineering** — C++, Go, Python, Haskell, Clojure, Elixir · Django, Node.js, Spring Boot · Docker, AWS, CI/CD
+Beyond simulation, I lead projects focused on Geospatial Linked Data:
 
-**Geospatial** — GeoPandas, NumPy, rasterio, libpysal · Google Earth Engine · QGIS (PyQGIS) · PostGIS · RDF / SPARQL (Fuseki)
+* **[qgisparql](https://github.com/LambdaGeo)**: Tools for importing/exporting QGIS layers as RDF triples.
+* **[rdfmapper](https://github.com/LambdaGeo/rdfmapper)**: A declarative Object-RDF Mapper (ORM for Linked Data).
+* **[DBCells](https://github.com/LambdaGeo/dbcells)**: Publishing spatial modeling data as Linked Open Data.
 
 ---
 
-## 📊 GitHub Overview
+## 🎓 Teaching & Compilers
 
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=profsergiocosta&show_icons=true&theme=dark&include_all_commits=true" />
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=profsergiocosta&theme=dark&hide_border=false" />
-</p>
+* **[Polyglot-Compilers](https://github.com/profsergiocosta/polyglot-compilers)**: Implementing compilers (Lox, Nand2Tetris) across **C++, Go, Python, Clojure,** and **Elixir**.
+
+---
+
+## 🛠 Tech Stack
+
+- **Languages:** Python, Go, C++, Clojure, Elixir, Haskell.
+- **Geospatial:** GeoPandas, NumPy, Rasterio, Libpysal, QGIS, PostGIS.
+- **Infrastructure:** Docker, FastAPI, Redis, MinIO, AWS, CI/CD.
+- **Semantic Web:** RDF, SPARQL, Linked Data.
 
 ---
 
 ## 📬 Connect
 
-- 📝 [Notion profile](https://profsergiocosta.notion.site/)
+- 📝 [Notion Profile](https://profsergiocosta.notion.site/)
 - 🔗 [GitHub Activity](https://github.com/profsergiocosta)
 
----
-
 <p align="center">
-  <a href="https://github.com/profsergiocosta">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=profsergiocosta&theme=transparent" />
-  </a>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=profsergiocosta&show_icons=true&theme=dark&include_all_commits=true" />
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=profsergiocosta&theme=dark&hide_border=false" />
 </p>
-
