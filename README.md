@@ -56,11 +56,13 @@ Projetos focados em **Geospatial Linked Data** e Geoinformática:
 
 ## 📬 Connect
 
-- 📝 [Notion Profile](https://profsergiocosta.notion.site/) - Materiais de aula e mentorias.
+- 📝 [Notion Profile](https://profsergiocosta.notion.site/)
 - 🔗 [GitHub Activity](https://github.com/profsergiocosta)
-
+  
 <p align="center">
-  <img height="160em" src="[https://github-readme-stats.vercel.app/api?username=profsergiocosta&show_icons=true&theme=dark&include_all_commits=true](https://github-readme-stats.vercel.app/api?username=profsergiocosta&show_icons=true&theme=dark&include_all_commits=true)" />
-  <img height="160em" src="[https://github-readme-streak-stats.herokuapp.com/?user=profsergiocosta&theme=dark&hide_border=false](https://github-readme-streak-stats.herokuapp.com/?user=profsergiocosta&theme=dark&hide_border=false)" />
-</p>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=profsergiocosta&show_icons=true&theme=dark&include_all_commits=true" />
+
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=profsergiocosta&theme=dark&hide_border=false" />
+
+
 
