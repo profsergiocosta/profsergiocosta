@@ -58,11 +58,11 @@ Projetos focados em **Geospatial Linked Data** e Geoinformática:
 
 - 📝 [Notion Profile](https://profsergiocosta.notion.site/)
 - 🔗 [GitHub Activity](https://github.com/profsergiocosta)
-  
+
+## Statistics
+
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=profsergiocosta&show_icons=true&theme=dark&include_all_commits=true" />
-
   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=profsergiocosta&theme=dark&hide_border=false" />
-
-
+</p>
 
