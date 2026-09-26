@@ -22,10 +22,6 @@ My research and teaching activities are organized across three GitHub organizati
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=profsergiocosta&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=profsergiocosta&layout=compact&theme=radical&langs_count=8" height="165" alt="Top Languages" />
-</div>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=profsergiocosta&theme=radical" alt="GitHub Streak" />
