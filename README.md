@@ -20,9 +20,9 @@ My core research and teaching activities are distributed across three dedicated 
 
 | | Organization | Focus & Flagship Projects |
 |---|---|---|
-| 🌍 | **[LambdaGeo](https://github.com/LambdaGeo)** · [Site](https://lambdageo.github.io) | Spatial computing, geotechnologies & Linked Data.<br>*(e.g., [QGISSPARQL](https://plugins.qgis.org/plugins/qgisparql/) – Official QGIS Plugin, 400+ downloads)* |
-| 🧩 | **[DisSModel](https://github.com/dissmodel)** · [Site](https://dissmodel.github.io) | Python framework for spatially explicit dynamic modeling.<br>*(📝 Currently under peer review at the Journal of Open Source Software - JOSS)* |
-| 🎓 | **[LambdaGeo Edu](https://github.com/lambdageo-edu)** | Open-source educational materials: Compilers (Nand2Tetris), Functional Programming (Haskell/Clojure), and Data Structures. |
+| 🌍 | **[LambdaGeo](https://github.com/LambdaGeo)** · [Site](https://lambdageo.github.io) | Spatial computing, geotechnologies & Linked Data.<br>*(e.g., [QGISSPARQL](https://plugins.qgis.org/plugins/qgisparql/) – Official QGIS Plugin; [rdfmapper](https://pypi.org/project/rdfmapper/) – Declarative Object-RDF Mapper)* |
+| 🧩 | **[DisSModel](https://github.com/dissmodel)** · [Site](https://dissmodel.github.io) | Python framework for spatially explicit dynamic modeling.<br>*(📦 Available on [PyPI](https://pypi.org/project/dissmodel/) · 📝 Under peer review at JOSS)* |
+| 🎓 | **[LambdaGeo Edu](https://github.com/lambdageo-edu)** · [Site](https://lambdageo-edu.github.io) | Open-source educational materials: Compilers (Nand2Tetris), Functional Programming (Haskell/Clojure), and Data Structures. |
 
 ---
 
@@ -37,6 +37,9 @@ My core research and teaching activities are distributed across three dedicated 
   <img src="https://img.shields.io/badge/RDF/SPARQL-FF0000?style=flat&logo=w3c&logoColor=white" alt="Semantic Web" />
   <img src="https://img.shields.io/badge/GeoPandas-317943?style=flat&logo=python&logoColor=white" alt="GeoPandas" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
+  <br>
+  <img src="https://img.shields.io/pypi/v/dissmodel.svg?label=PyPI%20dissmodel&color=blue" alt="dissmodel PyPI" />
+  <img src="https://img.shields.io/pypi/v/rdfmapper.svg?label=PyPI%20rdfmapper&color=blue" alt="rdfmapper PyPI" />
 </p>
 
 ---
