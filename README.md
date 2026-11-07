@@ -7,36 +7,15 @@
 > I lead the [LambdaGeo](https://lambdageo.ufma.br) research group. My work is on reproducible spatial simulation, land-change modelling, and the open data and software infrastructure behind it.
 
 ### 🔗 Links
-[
 
-![LambdaGeo](https://img.shields.io/badge/LambdaGeo-research_group-1565C0?style=flat)
-
-](https://lambdageo.ufma.br)
-[
-
-![Profile](https://img.shields.io/badge/Profile-lambdageo.ufma.br-2E7D32?style=flat)
-
-](https://lambdageo.ufma.br/people/sergio-costa/)
-[
-
-![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-4285F4?style=flat&logo=google-scholar&logoColor=white)
-
-](https://scholar.google.com/citations?user=ggu2II0AAAAJ&hl=en)
-[
-
-![ORCID](https://img.shields.io/badge/ORCID-0000--0002--0232--4549-A6CE39?style=flat&logo=orcid&logoColor=white)
-
-](https://orcid.org/0000-0002-0232-4549)
-[
-
-![Lattes](https://img.shields.io/badge/Lattes-CV-263238?style=flat)
-
-](http://lattes.cnpq.br/2073311645132958)
-[
-
-![LinkedIn](https://img.shields.io/badge/LinkedIn-profsergiocosta-1565C0?style=flat&logo=linkedin&logoColor=white)
-
-](https://www.linkedin.com/in/profsergiocosta/)
+<p align="left">
+  <a href="https://lambdageo.ufma.br"><img src="https://img.shields.io/badge/LambdaGeo-research_group-1565C0?style=flat" alt="LambdaGeo" /></a>
+  <a href="https://lambdageo.ufma.br/people/sergio-costa/"><img src="https://img.shields.io/badge/Profile-lambdageo.ufma.br-2E7D32?style=flat" alt="Profile" /></a>
+  <a href="https://scholar.google.com/citations?user=ggu2II0AAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-Profile-4285F4?style=flat&logo=google-scholar&logoColor=white" alt="Google Scholar" /></a>
+  <a href="https://orcid.org/0000-0002-0232-4549"><img src="https://img.shields.io/badge/ORCID-0000--0002--0232--4549-A6CE39?style=flat&logo=orcid&logoColor=white" alt="ORCID" /></a>
+  <a href="http://lattes.cnpq.br/2073311645132958"><img src="https://img.shields.io/badge/Lattes-CV-263238?style=flat" alt="Lattes" /></a>
+  <a href="https://www.linkedin.com/in/profsergiocosta/"><img src="https://img.shields.io/badge/LinkedIn-profsergiocosta-1565C0?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
 
 ---
 
@@ -46,58 +25,18 @@
 
 **Spatial simulation and land-change modelling**
 
-| Package | What it does | Version | Downloads | Install |
-|---|---|---|---|---|
-| [**dissmodel**](https://pypi.org/project/dissmodel/) | Core framework for discrete spatial simulation, with built-in experiment records | [
-
-![PyPI](https://img.shields.io/pypi/v/dissmodel.svg?label=&color=blue)
-
-](https://pypi.org/project/dissmodel/) | 
-
-![downloads](https://img.shields.io/pypi/dm/dissmodel.svg?label=&color=green)
-
- | `pip install dissmodel` |
-| [**disscube**](https://pypi.org/project/disscube/) | Declarative spatial data cubes: a TOML file turns open sources (MapBiomas, PRODES, BDC, OSM, DEM) into gridded model inputs, with provenance | [
-
-![PyPI](https://img.shields.io/pypi/v/disscube.svg?label=&color=blue)
-
-](https://pypi.org/project/disscube/) | 
-
-![downloads](https://img.shields.io/pypi/dm/disscube.svg?label=&color=green)
-
- | `pip install disscube` |
-| [**disslucc**](https://pypi.org/project/disslucc/) | Land-use/cover change components (demand, potential, allocation), verified against LuccME | [
-
-![PyPI](https://img.shields.io/pypi/v/disslucc.svg?label=&color=blue)
-
-](https://pypi.org/project/disslucc/) | 
-
-![downloads](https://img.shields.io/pypi/dm/disslucc.svg?label=&color=green)
-
- | `pip install disslucc` |
+| Package | What it does | Stats |
+|---|---|---|
+| [**dissmodel**](https://pypi.org/project/dissmodel/) | Core framework for discrete spatial simulation, with built-in experiment records. `pip install dissmodel` | <a href="https://pypi.org/project/dissmodel/"><img src="https://img.shields.io/pypi/v/dissmodel?label=version&color=blue" alt="version" /></a> <img src="https://img.shields.io/pypi/dm/dissmodel?label=downloads&color=green" alt="downloads" /> |
+| [**disscube**](https://pypi.org/project/disscube/) | Declarative spatial data cubes: a TOML file turns open sources (MapBiomas, PRODES, BDC, OSM, DEM) into gridded model inputs, with provenance. `pip install disscube` | <a href="https://pypi.org/project/disscube/"><img src="https://img.shields.io/pypi/v/disscube?label=version&color=blue" alt="version" /></a> <img src="https://img.shields.io/pypi/dm/disscube?label=downloads&color=green" alt="downloads" /> |
+| [**disslucc**](https://pypi.org/project/disslucc/) | Land-use/cover change components (demand, potential, allocation), verified against LuccME. `pip install disslucc` | <a href="https://pypi.org/project/disslucc/"><img src="https://img.shields.io/pypi/v/disslucc?label=version&color=blue" alt="version" /></a> <img src="https://img.shields.io/pypi/dm/disslucc?label=downloads&color=green" alt="downloads" /> |
 
 **Field data and semantic web**
 
-| Package | What it does | Version | Downloads | Install |
-|---|---|---|---|---|
-| [**fielddash**](https://pypi.org/project/fielddash/) | Schema-driven Streamlit dashboards for Epicollect5 field surveys: filters, charts and maps come from the form schema, and a new survey needs only a YAML file ([docs](https://lambdageo.github.io/fielddash/)) | [
-
-![PyPI](https://img.shields.io/pypi/v/fielddash.svg?label=&color=blue)
-
-](https://pypi.org/project/fielddash/) | 
-
-![downloads](https://img.shields.io/pypi/dm/fielddash.svg?label=&color=green)
-
- | `pip install fielddash` |
-| [**rdfmapper**](https://pypi.org/project/rdfmapper/) | Declarative Object–RDF mapper for Python | [
-
-![PyPI](https://img.shields.io/pypi/v/rdfmapper.svg?label=&color=blue)
-
-](https://pypi.org/project/rdfmapper/) | 
-
-![downloads](https://img.shields.io/pypi/dm/rdfmapper.svg?label=&color=green)
-
- | `pip install rdfmapper` |
+| Package | What it does | Stats |
+|---|---|---|
+| [**fielddash**](https://pypi.org/project/fielddash/) | Schema-driven Streamlit dashboards for Epicollect5 field surveys: filters, charts and maps come from the form schema, and a new survey needs only a YAML file ([docs](https://lambdageo.github.io/fielddash/)). `pip install fielddash` | <a href="https://pypi.org/project/fielddash/"><img src="https://img.shields.io/pypi/v/fielddash?label=version&color=blue" alt="version" /></a> <img src="https://img.shields.io/pypi/dm/fielddash?label=downloads&color=green" alt="downloads" /> |
+| [**rdfmapper**](https://pypi.org/project/rdfmapper/) | Declarative Object–RDF mapper for Python. `pip install rdfmapper` | <a href="https://pypi.org/project/rdfmapper/"><img src="https://img.shields.io/pypi/v/rdfmapper?label=version&color=blue" alt="version" /></a> <img src="https://img.shields.io/pypi/dm/rdfmapper?label=downloads&color=green" alt="downloads" /> |
 
 Model collections and the agent-based extension ([dissmodel-ca](https://github.com/DisSModel/dissmodel-ca), [dissmodel-sysdyn](https://github.com/DisSModel/dissmodel-sysdyn), [dissmodel-abm](https://github.com/DisSModel/dissmodel-abm)) are installed from tagged GitHub releases.
 
@@ -110,7 +49,7 @@ Model collections and the agent-based extension ([dissmodel-ca](https://github.c
 
 ### Reproducibility and verification
 
-[`terrame-docker`](https://github.com/LambdaGeo/terrame-docker) · [`luccme-goldens`](https://github.com/LambdaGeo/luccme-goldens) · [`terrame-goldens`](https://github.com/LambdaGeo/terrame-goldens) · [`disscube-benchmark`](https://github.com/LambdaGeo/disscube-benchmark) · [`disslucc-benchmark`](https://github.com/LambdaGeo/disslucc-benchmark) · [`open-lucc-workflow`](https://github.com/LambdaGeo/open-lucc-workflow) · [`disscube-grids`](https://github.com/LambdaGeo/disscube-grids)
+[terrame-docker](https://github.com/LambdaGeo/terrame-docker) · [luccme-goldens](https://github.com/LambdaGeo/luccme-goldens) · [terrame-goldens](https://github.com/LambdaGeo/terrame-goldens) · [disscube-benchmark](https://github.com/LambdaGeo/disscube-benchmark) · [disslucc-benchmark](https://github.com/LambdaGeo/disslucc-benchmark) · [open-lucc-workflow](https://github.com/LambdaGeo/open-lucc-workflow) · [disscube-grids](https://github.com/LambdaGeo/disscube-grids)
 
 ---
 
@@ -120,14 +59,14 @@ My research and teaching code lives in three GitHub organizations, not on this p
 
 | | Organization | Focus & Flagship Projects |
 |---|---|---|
-| 🌍 | **[LambdaGeo](https://github.com/LambdaGeo)** · [Site](https://lambdageo.ufma.br) | Research group: spatial computing, geotechnologies and Linked Data; reference outputs, benchmarks and study cases for DisSModel.<br>*(e.g., [QGISSPARQL](https://plugins.qgis.org/plugins/qgisparql/) – QGIS plugin; [rdfmapper](https://pypi.org/project/rdfmapper/) – Object-RDF mapper; [fielddash](https://pypi.org/project/fielddash/) – field survey dashboards)* |
-| 🧩 | **[DisSModel](https://github.com/DisSModel)** · [Site](https://dissmodel.github.io) | Python ecosystem for discrete spatial simulation and land-change modelling, an independent alternative to INPE's TerraME/LuccME (which remain the reference).<br>*(📦 [PyPI](https://pypi.org/project/dissmodel/) · 📝 Under review at JOSS)* |
+| 🌍 | **[LambdaGeo](https://github.com/LambdaGeo)** · [Site](https://lambdageo.ufma.br) | Research group: spatial computing, geotechnologies and Linked Data; reference outputs, benchmarks and study cases for DisSModel. Examples: [QGISSPARQL](https://plugins.qgis.org/plugins/qgisparql/) (QGIS plugin), [rdfmapper](https://pypi.org/project/rdfmapper/) (Object-RDF mapper), [fielddash](https://pypi.org/project/fielddash/) (field survey dashboards). |
+| 🧩 | **[DisSModel](https://github.com/DisSModel)** · [Site](https://dissmodel.github.io) | Python ecosystem for discrete spatial simulation and land-change modelling, an independent alternative to INPE's TerraME/LuccME (which remain the reference). [PyPI](https://pypi.org/project/dissmodel/) · Under review at JOSS. |
 | 🎓 | **[LambdaGeo Edu](https://github.com/lambdageo-edu)** · [Site](https://lambdageo-edu.github.io) | Open educational materials (in Portuguese): Compilers (Nand2Tetris), Functional Programming, Data Structures, Geoprocessing and Remote Sensing. |
 
 ### 📚 Books
 
-- *Geospatial Modeling with Python* · [LambdaGeo/geospatial-modeling-python](https://github.com/LambdaGeo/geospatial-modeling-python)
-- *Introdução ao Geoprocessamento e Sensoriamento Remoto* (pt-BR) · [lambdageo-edu](https://lambdageo-edu.github.io/book-geoprocessamento-e-sensoriamento-remoto/)
+- *Geospatial Modeling with Python*: [LambdaGeo/geospatial-modeling-python](https://github.com/LambdaGeo/geospatial-modeling-python)
+- *Introdução ao Geoprocessamento e Sensoriamento Remoto* (pt-BR): [lambdageo-edu](https://lambdageo-edu.github.io/book-geoprocessamento-e-sensoriamento-remoto/)
 
 ---
 
@@ -136,10 +75,6 @@ My research and teaching code lives in three GitHub organizations, not on this p
 <p align="left">
   <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=profsergiocosta&show_icons=true&count_private=true&include_all_commits=true&hide_border=true" />
   <img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=profsergiocosta&layout=compact&langs_count=8&hide_border=true" />
-</p>
-
-<p align="left">
-  <img alt="Contribution streak" src="https://streak-stats.demolab.com/?user=profsergiocosta&hide_border=true" />
 </p>
 
 ---
