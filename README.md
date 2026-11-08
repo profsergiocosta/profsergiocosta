@@ -36,9 +36,21 @@
 | Package | What it does | Stats |
 |---|---|---|
 | [**fielddash**](https://pypi.org/project/fielddash/) | Schema-driven Streamlit dashboards for Epicollect5 field surveys: filters, charts and maps come from the form schema, and a new survey needs only a YAML file ([docs](https://lambdageo.github.io/fielddash/)). `pip install fielddash` | <a href="https://pypi.org/project/fielddash/"><img src="https://img.shields.io/pypi/v/fielddash?label=version&color=blue" alt="version" /></a> <img src="https://img.shields.io/pypi/dm/fielddash?label=downloads&color=green" alt="downloads" /> |
-| [**rdfmapper**](https://pypi.org/project/rdfmapper/) | Declarative Object–RDF mapper for Python. `pip install rdfmapper` | <a href="https://pypi.org/project/rdfmapper/"><img src="https://img.shields.io/pypi/v/rdfmapper?label=version&color=blue" alt="version" /></a> <img src="https://img.shields.io/pypi/dm/rdfmapper?label=downloads&color=green" alt="downloads" /> |
+| [**rdfmapper**](https://pypi.org/project/rdfmapper/) | Declarative Object–RDF mapper: map Python classes to RDF graphs with decorators, with SPARQL-backed repository queries (`find_by_*`, `count_by_*`) and automatic SHACL shape generation and validation ([repo](https://github.com/LambdaGeo/rdfmapper)). `pip install rdfmapper` | <a href="https://pypi.org/project/rdfmapper/"><img src="https://img.shields.io/pypi/v/rdfmapper?label=version&color=blue" alt="version" /></a> <img src="https://img.shields.io/pypi/dm/rdfmapper?label=downloads&color=green" alt="downloads" /> |
 
-Model collections and the agent-based extension ([dissmodel-ca](https://github.com/DisSModel/dissmodel-ca), [dissmodel-sysdyn](https://github.com/DisSModel/dissmodel-sysdyn), [dissmodel-abm](https://github.com/DisSModel/dissmodel-abm)) are installed from tagged GitHub releases.
+Model collections and the agent-based extension ([dissmodel-ca](https://github.com/DisSModel/dissmodel-ca), [dissmodel-sysdyn](https://github.com/DisSModel/dissmodel-sysdyn), [dissmodel-abm](https://github.com/DisSModel/dissmodel-abm)) are installed from tagged GitHub releases; try them first in the live demos below.
+
+### Live demos (no install)
+
+Run the DisSModel model collections in the browser, hosted on Hugging Face Spaces.
+
+| Demo | Paradigm | Models |
+|---|---|---|
+| [**dissmodel-ca-demo**](https://huggingface.co/spaces/profsergiocosta/dissmodel-ca-demo) | Cellular automata | Game of Life, forest fire and other automata ported from TerraME ([dissmodel-ca](https://github.com/DisSModel/dissmodel-ca)) |
+| [**dissmodel-sysdyn-demo**](https://huggingface.co/spaces/profsergiocosta/dissmodel-sysdyn-demo) | System dynamics | Tub, SIR, predator–prey and others ([dissmodel-sysdyn](https://github.com/DisSModel/dissmodel-sysdyn)) |
+| [**dissmodel-abm-demo**](https://huggingface.co/spaces/profsergiocosta/dissmodel-abm-demo) | Agent-based | Schelling segregation and other agent models ([dissmodel-abm](https://github.com/DisSModel/dissmodel-abm)) |
+
+<sub>Free Spaces go to sleep when idle: the first load can take a minute or two.</sub>
 
 ### QGIS plugins
 
@@ -59,7 +71,7 @@ My research and teaching code lives in three GitHub organizations, not on this p
 
 | | Organization | Focus & Flagship Projects |
 |---|---|---|
-| 🌍 | **[LambdaGeo](https://github.com/LambdaGeo)** · [Site](https://lambdageo.ufma.br) | Research group: spatial computing, geotechnologies and Linked Data; reference outputs, benchmarks and study cases for DisSModel. Examples: [QGISSPARQL](https://plugins.qgis.org/plugins/qgisparql/) (QGIS plugin), [rdfmapper](https://pypi.org/project/rdfmapper/) (Object-RDF mapper), [fielddash](https://pypi.org/project/fielddash/) (field survey dashboards). |
+| 🌍 | **[LambdaGeo](https://github.com/LambdaGeo)** · [Site](https://lambdageo.ufma.br) | Research group: spatial computing, geotechnologies and Linked Data; reference outputs, benchmarks and study cases for DisSModel. Examples: [QGISSPARQL](https://plugins.qgis.org/plugins/qgisparql/) (QGIS plugin), [rdfmapper](https://pypi.org/project/rdfmapper/) (Object-RDF mapper with SHACL validation), [fielddash](https://pypi.org/project/fielddash/) (field survey dashboards). |
 | 🧩 | **[DisSModel](https://github.com/DisSModel)** · [Site](https://dissmodel.github.io) | Python ecosystem for discrete spatial simulation and land-change modelling, an independent alternative to INPE's TerraME/LuccME (which remain the reference). [PyPI](https://pypi.org/project/dissmodel/) · Under review at JOSS. |
 | 🎓 | **[LambdaGeo Edu](https://github.com/lambdageo-edu)** · [Site](https://lambdageo-edu.github.io) | Open educational materials (in Portuguese): Compilers (Nand2Tetris), Functional Programming, Data Structures, Geoprocessing and Remote Sensing. |
 
@@ -78,6 +90,7 @@ My research and teaching code lives in three GitHub organizations, not on this p
   <a href="https://github.com/DisSModel/disscube"><img src="https://img.shields.io/github/stars/DisSModel/disscube?label=disscube%20stars&style=flat" alt="disscube stars" /></a>
   <a href="https://github.com/DisSModel/disslucc"><img src="https://img.shields.io/github/stars/DisSModel/disslucc?label=disslucc%20stars&style=flat" alt="disslucc stars" /></a>
   <a href="https://github.com/LambdaGeo/fielddash"><img src="https://img.shields.io/github/stars/LambdaGeo/fielddash?label=fielddash%20stars&style=flat" alt="fielddash stars" /></a>
+  <a href="https://github.com/LambdaGeo/rdfmapper"><img src="https://img.shields.io/github/stars/LambdaGeo/rdfmapper?label=rdfmapper%20stars&style=flat" alt="rdfmapper stars" /></a>
 </p>
 
 <p align="left">
@@ -85,6 +98,7 @@ My research and teaching code lives in three GitHub organizations, not on this p
   <a href="https://pepy.tech/project/disscube"><img src="https://img.shields.io/pepy/dt/disscube?label=disscube%20downloads&color=green" alt="disscube total downloads" /></a>
   <a href="https://pepy.tech/project/disslucc"><img src="https://img.shields.io/pepy/dt/disslucc?label=disslucc%20downloads&color=green" alt="disslucc total downloads" /></a>
   <a href="https://pepy.tech/project/fielddash"><img src="https://img.shields.io/pepy/dt/fielddash?label=fielddash%20downloads&color=green" alt="fielddash total downloads" /></a>
+  <a href="https://pepy.tech/project/rdfmapper"><img src="https://img.shields.io/pepy/dt/rdfmapper?label=rdfmapper%20downloads&color=green" alt="rdfmapper total downloads" /></a>
 </p>
 
 ---
