@@ -70,11 +70,21 @@ My research and teaching code lives in three GitHub organizations, not on this p
 
 ---
 
-## 📊 GitHub stats
+## 📊 Impact at a glance
 
 <p align="left">
-  <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=profsergiocosta&show_icons=true&count_private=true&include_all_commits=true&hide_border=true" />
-  <img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=profsergiocosta&layout=compact&langs_count=8&hide_border=true" />
+  <a href="https://github.com/profsergiocosta"><img src="https://img.shields.io/github/followers/profsergiocosta?label=followers&style=flat" alt="followers" /></a>
+  <a href="https://github.com/DisSModel/dissmodel"><img src="https://img.shields.io/github/stars/DisSModel/dissmodel?label=dissmodel%20stars&style=flat" alt="dissmodel stars" /></a>
+  <a href="https://github.com/DisSModel/disscube"><img src="https://img.shields.io/github/stars/DisSModel/disscube?label=disscube%20stars&style=flat" alt="disscube stars" /></a>
+  <a href="https://github.com/DisSModel/disslucc"><img src="https://img.shields.io/github/stars/DisSModel/disslucc?label=disslucc%20stars&style=flat" alt="disslucc stars" /></a>
+  <a href="https://github.com/LambdaGeo/fielddash"><img src="https://img.shields.io/github/stars/LambdaGeo/fielddash?label=fielddash%20stars&style=flat" alt="fielddash stars" /></a>
+</p>
+
+<p align="left">
+  <a href="https://pepy.tech/project/dissmodel"><img src="https://img.shields.io/pepy/dt/dissmodel?label=dissmodel%20downloads&color=green" alt="dissmodel total downloads" /></a>
+  <a href="https://pepy.tech/project/disscube"><img src="https://img.shields.io/pepy/dt/disscube?label=disscube%20downloads&color=green" alt="disscube total downloads" /></a>
+  <a href="https://pepy.tech/project/disslucc"><img src="https://img.shields.io/pepy/dt/disslucc?label=disslucc%20downloads&color=green" alt="disslucc total downloads" /></a>
+  <a href="https://pepy.tech/project/fielddash"><img src="https://img.shields.io/pepy/dt/fielddash?label=fielddash%20downloads&color=green" alt="fielddash total downloads" /></a>
 </p>
 
 ---
