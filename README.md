@@ -112,6 +112,16 @@ My research and teaching code lives in three GitHub organizations, not on this p
 
 ---
 
+## Timeline 
+
+<p align="center">
+  <a href="https://github.com/profsergiocosta">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=profsergiocosta&theme=tokyonight" />
+  </a>
+</p>
+
+---
+
 ## 📌 About this profile
 
 This profile (`profsergiocosta`) holds personal experiments, small utilities and side projects. For research code, spatial modelling software and courseware, see the organizations above.
